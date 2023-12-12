@@ -40,3 +40,10 @@ aman.fun2 = function() {
 
 console.log(aman.fun1());
 console.log(aman.fun2());
+
+
+// creation of an object
+//to access the objects in two ways
+//how to use Symbol
+// how to freeze an object  Object.freeze(Object_name)
+// how to use function with objects
